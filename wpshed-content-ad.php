@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: WPshed Conted Ad
+ * Plugin Name: WPshed Content Ad
  * Plugin URI: http://wpshed.com/
  * Description: This plugin will place an Ad (script) in your post content after a predefined number of paragraphs. Plugin by <a href="http://wpshed.com/">WPshed.com</a>.
  * Version: 0.1
